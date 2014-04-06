@@ -1,6 +1,6 @@
 {
   "name": "ec2-hostname",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "print ec2 public hostname by querying the internal hypervisor http interface",
   "main": "index.js",
   "scripts": {
